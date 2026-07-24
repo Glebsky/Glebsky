@@ -130,7 +130,7 @@
           
           <text x="20" y="30" fill="#22D3EE" font-weight="600">[ CORE METRICS ]</text>
           
-          <text x="20" y="60" fill="#94A3B8">ROLE       : <tspan fill="#F8FAFC">Middle PHP Engineer</tspan></text>
+          <text x="20" y="60" fill="#94A3B8">ROLE       : <tspan fill="#F8FAFC">PHP &amp; Software Engineer</tspan></text>
           <text x="20" y="85" fill="#94A3B8">STACK      : <tspan fill="#F8FAFC">Laravel / Node.js / SQL</tspan></text>
           <text x="20" y="110" fill="#94A3B8">DOMAINS    : <tspan fill="#F8FAFC">Backend / AI Integrations</tspan></text>
           <text x="20" y="135" fill="#94A3B8">INFRA      : <tspan fill="#F8FAFC">Docker / Linux / Cloud</tspan></text>
@@ -188,7 +188,7 @@
         <g transform="translate(24, 0)" clip-path="url(#phrase-clipper)">
           <g class="mono" font-size="16" font-weight="600" fill="url(#accent-grad-dark)">
             <animateTransform attributeName="transform" type="translate" values="0,18; 0,18; 0,-22; 0,-22; 0,-62; 0,-62; 0,-102; 0,-102; 0,18" keyTimes="0;0.22;0.25;0.47;0.50;0.72;0.75;0.97;1" dur="12s" repeatCount="indefinite"/>
-            <text x="0" y="0">Middle PHP Engineer</text>
+            <text x="0" y="0">PHP &amp; Software Engineer</text>
             <text x="0" y="40">Laravel &amp; High-Load Dev</text>
             <text x="0" y="80">Automation &amp; AI Integrations</text>
             <text x="0" y="120">Open Source Contributor</text>
